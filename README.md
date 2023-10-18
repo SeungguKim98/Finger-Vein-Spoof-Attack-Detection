@@ -1,4 +1,4 @@
-# DCS GAN: Densely Updated Contrastive Learning-based Self attention Generative Adversarial Network   for Spoof Detection of Finger vein Images
+# DCS-GAN: Densely Updated Contrastive Learning-based Self attention Generative Adversarial Network   for Spoof Detection of Finger vein Images
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## Download
@@ -12,7 +12,7 @@
 ### Download generated database
 
 >#### * Send me the email for taking database (I can give you only generated images)
->##### email: ismysg104@dgu.ac.kr
+
 -----------------------------------------------------------------------------------------------------------------------------
 
 ## Implementation
